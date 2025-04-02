@@ -4,6 +4,10 @@
 
 This project predicts the price of a mobile phone based on its specifications. The dataset was collected from Flipkart using web scraping with BeautifulSoup. The data was then cleaned, transformed, and analyzed using various machine learning techniques. A Random Forest Regressor was selected as the best model, achieving an R² score of 99.8%. Finally, a Streamlit-based web app was developed to allow users to input mobile specifications and get a price prediction.
 
+**App link**
+  [Link](https://mobile-price-predictor9.streamlit.app/)
+
+  
 🚀 **Tech Stack**
 
 * Python
